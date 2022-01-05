@@ -11,5 +11,9 @@ public class Zomato {
 		System.out.println("emp b my work is done");
 
 	}
+	private void empB1() {
+		System.out.println("emp b1 my work is done");
+
+	}
 
 }
